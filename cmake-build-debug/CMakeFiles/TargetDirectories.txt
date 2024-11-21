@@ -1,0 +1,3 @@
+C:/Users/kimju/CLionProjects/makeui/cmake-build-debug/CMakeFiles/makeui.dir
+C:/Users/kimju/CLionProjects/makeui/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kimju/CLionProjects/makeui/cmake-build-debug/CMakeFiles/rebuild_cache.dir
